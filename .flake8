@@ -1,0 +1,3 @@
+[flake8]
+exclude = venv, .\actors\migrations, .\genres\migrations, .\movies\migrations , .\reviews\migrations , .\app\settings.py
+# ignore = E501
